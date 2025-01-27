@@ -10,7 +10,7 @@ does not guarantee its functionality and possible damage of any kind to the pote
 user. If you download it you take all possible risks from its usage on your own.
 
 How to site:
-Use this link to cite me: https://github.com/Vlasenko2006/FastGAN-MNIST
+Use this link to cite me: https://github.com/Vlasenko2006/FastGAN
 
 
 Advantages:
