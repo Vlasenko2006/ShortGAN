@@ -3,6 +3,12 @@ This software is an ilustrative example of how Generative Adversarial Network (G
 
 ![Sample Output](gan_generated_image_epoch.jpeg)
 
+## **Prerequisites**
+1. Linux
+2. Python 3
+
+---
+
 ## **Overview**
 The neural network consists of:
 1. A **Generator** network that generates synthetic images of digits.
