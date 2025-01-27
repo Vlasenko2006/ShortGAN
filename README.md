@@ -1,4 +1,4 @@
-# FastGAN (Generating Handwritten Digits)
+# ShortGAN 
 Original Generative Adversarial Network (GAN) is a powerful tool that creates meaningful and realistic images from noise. However, these networks are known for their extremely slow training rates. Recently, several methods appeared suggesting a speed-up of GAN's training. This software represents a GAN, combined with some of these methods. To illustrate how it works, I took a well-known MNIST dataset: images of hand-written numbers. 
 
 This GAN perfectly fits educational purposes. It does not require a GPU (but it would be nice if you have one), and you can run it on your desktop and get the first result in 10-40 minutes! Here is an example of how FastGAN-MNIST generates realistically looking MNIST images only after 100 training epochs:  
