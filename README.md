@@ -101,7 +101,7 @@ The GAN uses **Binary Cross-Entropy Loss**:
 
 ## **Installation Instructions**
 
-Use the provided `.yaml` file to set up the required Python environment using Anaconda.
+Here is a `gan_env.yaml` file to set up the required Python environment using Anaconda. Run ```conda env create -f gan_env.yaml``` in your terminal to get the packages. 
 
 ### **gan_env.yaml**
 ```yaml
