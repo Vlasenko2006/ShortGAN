@@ -1,5 +1,7 @@
 # FastGAN (Generating Handwritten Digits)
-This software is an ilustrative example of how Generative Adversarial Network (GAN) generate realistic handwritten digits based on the MNIST dataset. It includes generator pretraining to enhance performance and stabilize GAN training. It Perfectly  fits for educational purposes.
+This software is an illustrative example of how a Generative Adversarial Network (GAN) generates realistic handwritten digits based on the MNIST dataset. It includes generator pretraining to enhance performance and stabilize GAN training. It perfectly fits for educational purposes. It does not require a GPU (but it would be nice if you have one), and you can run it on your desktop and get the first result in 10-40 minutes!
+
+Here is an example of how FastGAN-MNIST generates realistically looking MNIST images only after 100 training epochs:  
 
 ![Sample Output](https://github.com/Vlasenko2006/FastGAN/blob/main/gan3_generated_image_epoch_100.png)
 
