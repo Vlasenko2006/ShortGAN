@@ -1,0 +1,15 @@
+
+name: gan_env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pytorch=1.13.0
+  - torchvision=0.14.0
+  - numpy
+  - matplotlib
+  - tqdm
+  - pip
+  - pip:
+      - torch-summary
